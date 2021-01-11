@@ -1,4 +1,5 @@
-﻿using RptReportApp.DataTableAdapters;
+﻿//using RptReportApp.DataTableAdapters;
+using RptReportApp.DataTableAdapters;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -132,7 +133,64 @@ namespace RptReportApp
                 else
                 {
                     break;
+
                 }
+
+                if (xlWorkSheet.Cells[iRow, 11].value != null)
+                {
+                    data.Address1 = xlWorkSheet.Cells[iRow, 11].value;
+                }
+                else
+                {
+                    break;
+                }
+
+                if (xlWorkSheet.Cells[iRow, 12].value != null)
+                {
+                    data.Address2 = xlWorkSheet.Cells[iRow, 12].value;
+                }
+                else
+                {
+                    break;
+                }
+
+                if (xlWorkSheet.Cells[iRow, 13].value != null)
+                {
+                    data.State = xlWorkSheet.Cells[iRow, 13].value;
+                }
+                else
+                {
+                    break;
+                }
+
+                if (xlWorkSheet.Cells[iRow, 14].value != null)
+                {
+                    data.PhoneNumber = xlWorkSheet.Cells[iRow, 14].value;
+                }
+                else
+                {
+                    break;
+                }
+
+                if (xlWorkSheet.Cells[iRow, 15].value != null)
+                {
+                    data.Gender = xlWorkSheet.Cells[iRow, 15].value;
+                }
+                else
+                {
+                    break;
+                }
+
+                if (xlWorkSheet.Cells[iRow, 16].value != null)
+                {
+                    data.Email = xlWorkSheet.Cells[iRow, 16].value;
+                }
+                else
+                {
+                    break;
+                }
+
+
                 data.Date = dteDate.Value;
                 dataModels.Add(data);
             }
@@ -143,8 +201,8 @@ namespace RptReportApp
             DatasTableAdapter adapter = new DatasTableAdapter();
             foreach (var d in dataModels)
             {
-               var r = adapter.Insert(d.EnrolleeNumber,d.Company,d.Hospital,d.LastName,d.OtherName,d.Plan,d.FeeForService,d.Capitation,d.PremiumPerIndividual,d.CommissionPerIndividualPercentage,d.Date);
-                if(r>0)
+                var r = adapter.Insert(d.EnrolleeNumber, d.Company, d.Hospital, d.LastName, d.OtherName, d.Plan, d.FeeForService, d.Capitation, d.PremiumPerIndividual, d.CommissionPerIndividualPercentage, d.Date, d.Address1, d.Address2, d.State, d.PhoneNumber, d.Gender, d.Email);
+                if (r > 0)
                 {
                     result = result + 1;
                 }

@@ -18,6 +18,12 @@ namespace RptReportApp
         public decimal Capitation { get; set; }
         public decimal PremiumPerIndividual { get; set; }
         public int CommissionPerIndividualPercentage { get; set; }
+        public string Address1 { get; set; }
+        public string Address2 { get; set; }
+        public string State { get; set; }
+        public string PhoneNumber { get; set; }
+        public string Gender { get; set; }
+        public string Email { get; set; }
         public DateTime Date { get; set; }
 
     }
