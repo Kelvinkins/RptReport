@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RptReportApp
 {
-    class DataModel
+    public class DataModel
     {
         public string EnrolleeNumber { get; set; }
         public string Company { get; set; }
@@ -25,6 +25,10 @@ namespace RptReportApp
         public string Gender { get; set; }
         public string Email { get; set; }
         public DateTime Date { get; set; }
+        public string City { get; set; }
+        public string Region { get; set; }
+        public DateTime? SystemDateTime { get; set; }
+
 
     }
 }

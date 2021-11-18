@@ -26,22 +26,22 @@ namespace RptReportApp.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAURINXPRESS;Initial Catalog=Rpt;Integrated Security=True;Connect Tim" +
-            "eout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;M" +
-            "ultiSubnetFailover=False")]
-        public string RptConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.;Initial Catalog=Rpt;Integrated Security=True;Connect Timeout=30;Enc" +
+            "rypt=False;TrustServerCertificate=False")]
+        public string RptConnectionString1 {
             get {
-                return ((string)(this["RptConnectionString"]));
+                return ((string)(this["RptConnectionString1"]));
             }
         }
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAURINX-02\\LAURINXPRESS;Initial Catalog=Rpt;Integrated Security=True")]
-        public string RptConnectionString1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.;Initial Catalog=Rpt;Integrated Security=True;Connect Timeout=30;Enc" +
+            "rypt=False;TrustServerCertificate=False")]
+        public string RptConnectionString {
             get {
-                return ((string)(this["RptConnectionString1"]));
+                return ((string)(this["RptConnectionString"]));
             }
         }
     }

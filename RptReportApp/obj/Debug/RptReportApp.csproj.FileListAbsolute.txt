@@ -114,6 +114,8 @@ C:\Users\User\source\repos\RptReportApp\RptReportApp\obj\Debug\RptReportApp.cspr
 C:\Users\User\source\repos\RptReportApp\RptReportApp\obj\Debug\RdlCompile.cache
 C:\Users\User\source\repos\RptReportApp\RptReportApp\obj\Debug\RdlCompile.compiled
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\RptReportApp.exe.config
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\RptReportApp.exe.manifest
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\RptReportApp.application
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\RptReportApp.exe
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\RptReportApp.pdb
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\Microsoft.ReportViewer.Common.dll
@@ -193,11 +195,25 @@ C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\pt\
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.Form1.resources
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.HardDrive.resources
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.frmUpload.resources
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.Properties.Resources.resources
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.csproj.GenerateResource.cache
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.csproj.CoreCompileInputs.cache
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.exe.manifest
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.application
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.csproj.CopyComplete
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.exe
 C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.pdb
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RptReportApp.csprojAssemblyReference.cache
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RdlCompile.cache
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\obj\Debug\RdlCompile.compiled
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ExcelDataReader.dll
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ExcelDataReader.pdb
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ExcelDataReader.xml
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Kingsley Samuel\Documents\Projects\RptReport\RptReportApp\bin\Debug\ICSharpCode.SharpZipLib.xml
